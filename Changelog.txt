@@ -1,0 +1,17 @@
+# Changelog
+All notable changes to the IYS2022_Shimada_Data_template_final will be documented in this file.
+The IYS2022_Shimada_Data_template file is the latest version. 
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+## [1.0.0] - 2022-11-02
+
+### Added
+- Additional tab (10. FLOWTHROUGH DATA) which contains water temperature, salinity and fluorescence data collected on board the R/V Bell M. Shimada.
+
+### Changed
+- In the tab '4. SAMPLING EVENT INFO' the latitude for Bongo and Tucker event types at station 19 is changed from 49.00412 to 50.00412.
+
+### Removed
+
